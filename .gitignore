@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# User-specific files
+*.swp
+*.swo
+/.idea/
+/.vscode/
+
+# Output images and data
+/mnt/user-data/
+/D:/mnt/user-data/
+outputs/
